@@ -1,0 +1,76 @@
+ 
+        h1{
+            text-align: center;
+            background-color: skyblue;
+            height: 3cm;
+            text-align: center;
+            font-size: 1cm;
+            color: white;
+        }
+        span{
+            background-color: grey;
+            
+        }
+        li{
+            
+            background-color: grey;
+            font-family: Arial, Helvetica, sans-serif;
+            padding: 5px;
+            border-radius: 5%;
+        }
+        dl{
+            background-color: pink;
+            padding: 2cm;
+            border-radius: 80%;
+            text-align: center;
+        }
+        header{
+            text-align: center;
+            color: red;
+        }
+        p{
+            text-align: center;
+            color: green;
+            text-decoration: underline;
+            font-size: x-large;
+        }
+        ul{
+            color: white;
+        }
+        dd{
+            color: red;
+        }
+           footer{
+               color: blue;
+               text-align: center;
+           } 
+           table{
+               border-collapse: collapse;
+               margin: 50px;
+               text-align: center;
+               font-family: Arial, Helvetica, sans-serif;
+               font-weight: lighter;
+            
+            }
+            body{
+                
+                padding: 1cm;
+            }
+            tbody{
+                color: rgb(6, 35, 6);
+                border: 5px solid black;
+                padding: 10px;
+            }
+            th{
+                padding: 5px;
+                background-color: pink;
+                border: 2px solid black;
+            }
+            tr{
+                padding: 30px;
+                background-color: yellowgreen;
+                border: 2px solid black;
+                margin-left: 500px;
+                font-size: smaller;
+            }
+    
